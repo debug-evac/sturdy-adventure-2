@@ -1,5 +1,6 @@
 name = "PhysicsMod"
 filename = "physicsmod-1.20.1.jar"
+side = "client"
 
 [download]
 url = "https://www.patreon.com/file?h=86127166&i=14977129"
