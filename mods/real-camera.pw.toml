@@ -1,0 +1,13 @@
+name = "Real Camera"
+filename = "realcamera-1.20-forge-0.5.3-beta.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "ca93e6072af25a406623b887b193225092b8e157"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4575596
+project-id = 851574

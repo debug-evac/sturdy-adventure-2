@@ -1,0 +1,13 @@
+name = "Sleeping Bags"
+filename = "sleeping_bags-1.20.1-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7dd3414331a7928d6d047e6419cdd23ccb5bb139"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4584242
+project-id = 384485

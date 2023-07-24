@@ -1,0 +1,18 @@
+name = "Architectury API (Fabric/Forge)"
+filename = "architectury-9.1.10-forge.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "50801625f3d86513893c69fe3528b33bd833725c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4633048
+project-id = 419699
+
+[option]
+optional = true
+default = false
+description = "Enable, if using optional Light Overlay mod"
