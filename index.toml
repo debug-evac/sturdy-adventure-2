@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "e11407a7be15652677bda3ae555a4d140f779832495f5343f7d206e1d3cd1e56"
+
+[[files]]
 file = "config/bcc-common.toml"
 hash = "a1d54e43795ede7ef75e51718842b4555937cc6a31dee7863912d1e1b9918c75"
 
@@ -180,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/physicsmod.pw.toml"
-hash = "31aeeaf877f83200a551e20e3a0316f4cd1d962ff88a265769a3e783111611db"
+hash = "943d6c96659577c3e5b5f43dafe7d07aecd8771940311a84014ceab7053eff56"
 metafile = true
 
 [[files]]
