@@ -11,6 +11,7 @@ hash = "a1d54e43795ede7ef75e51718842b4555937cc6a31dee7863912d1e1b9918c75"
 [[files]]
 file = "config/realcamera.json"
 hash = "725aeb2371f67947ad195faff4beb36dfd64245094dac2401caa40b90152025f"
+preserve = true
 
 [[files]]
 file = "mods/antixray-forge.pw.toml"
@@ -119,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton-reforged.pw.toml"
-hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+hash = "9c1050c94b27f2c45faf308362cbfa273f120cd5aaeb742d94eea75179495c75"
 metafile = true
 
 [[files]]

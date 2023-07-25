@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4606534
 project-id = 549394
+
+[option]
+optional = true
+default = false
+description = "Enable for potentially better optimized network handling. However, it is causing ipv6 issues on linux and potentially on other os's as well. Use with caution!"
