@@ -6,7 +6,7 @@ hash = "e11407a7be15652677bda3ae555a4d140f779832495f5343f7d206e1d3cd1e56"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a1d54e43795ede7ef75e51718842b4555937cc6a31dee7863912d1e1b9918c75"
+hash = "5a7fcc4d6329cca2a20ac6738a2022b2d483b33df5521f072e4cca6fbab18bf6"
 
 [[files]]
 file = "config/realcamera.json"
@@ -111,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/gml.pw.toml"
 hash = "9ca3fb996304cb21567cda0c5fa43650511220a086cf2b6d2c00cd5e5472b73e"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "abaf0228924baf948deb277d0c050aced93159d72e998a8f01ec0f943def3bef"
 metafile = true
 
 [[files]]
