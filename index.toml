@@ -6,7 +6,7 @@ hash = "e11407a7be15652677bda3ae555a4d140f779832495f5343f7d206e1d3cd1e56"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "5a7fcc4d6329cca2a20ac6738a2022b2d483b33df5521f072e4cca6fbab18bf6"
+hash = "01b068cf871f55ab8ac6d6a06a1a8dba548357734413887636f0a2e71678a75d"
 
 [[files]]
 file = "config/realcamera.json"
@@ -25,7 +25,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "f9d3ce8eb00377f840f35b4205762cf383f0e1b5d04b0774d88ef934f09ceb16"
+hash = "ffadaf0d39d8ca0385238a2ee4befb3627716d23c12f2c8a4ac2058c5ec5a49a"
 metafile = true
 
 [[files]]
@@ -35,12 +35,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "e6a2436681ca1dea6c2b5bde4d2fdf96d7eaaa0b3cd740d3b2a0921d3abc94f4"
+hash = "61ee232e58c31f62d066db14f7fc1c1cd57dc925d3e1efa9f9450221a7471849"
 metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "71118b3d4939f3742322fc852502e4b757ae26ee6d80302b8d4413b08b300a27"
+hash = "86cb93925d163bf219df6c3c66f2f2c1304c8ba32b8c1687948c9c65a0c5e491"
 metafile = true
 
 [[files]]
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/diagonal-windows.pw.toml"
-hash = "5ebc3b1ce3c7e549752a45f28c43eddf71bf90023f0698112fb44306f479c1b2"
+hash = "8a98d9a65b0500d42a62111f2753c55b8085264bcf847985697cc5cd8e96995f"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "564baf4d70f2ee8546cb574f60db03011d33e36add4260058b27d8650f0c47c3"
+hash = "0286d8a0a9795d047e8c3e89c62afe3e7e270066de5e45c390d629098956dc0b"
 metafile = true
 
 [[files]]
@@ -185,12 +185,12 @@ metafile = true
 
 [[files]]
 file = "mods/official-divinerpg.pw.toml"
-hash = "e899dcf89075d22c1859bf3fe2c42b0fcfca7184d11f8662d2d617e9007d0293"
+hash = "4240ce7a78a9cca66e0042fda047daa1045499a1b986644009690044817a582d"
 metafile = true
 
 [[files]]
 file = "mods/physicsmod.pw.toml"
-hash = "943d6c96659577c3e5b5f43dafe7d07aecd8771940311a84014ceab7053eff56"
+hash = "957f8ef0b484a75067634e4e36e6efcbf5bc788f565885e3d45afc6ea0daa9fa"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "ed83c3b5813db35ffd51ac2a38d7cb6326041293d01d2bf5f9d131bdf46ce011"
+hash = "b174f739de2c9eb21d792240dfc24fc6b1a9f3a06c5a194f76e29d4b6b827299"
 metafile = true
 
 [[files]]
