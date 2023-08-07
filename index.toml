@@ -6,7 +6,7 @@ hash = "e11407a7be15652677bda3ae555a4d140f779832495f5343f7d206e1d3cd1e56"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "01b068cf871f55ab8ac6d6a06a1a8dba548357734413887636f0a2e71678a75d"
+hash = "f21f5ae7fd6a7754a20b890130d28b2655e8423e6618fe473e013b76007baead"
 
 [[files]]
 file = "config/realcamera.json"
@@ -30,12 +30,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "60f510f690e521a7409877dd8817160f23cf17415dd9cba8b6b84d643c4f71ba"
+hash = "02cbfc2ef415376644cace02a08a6c5146b22fd33c2436691ac7917fff5f2715"
 metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "61ee232e58c31f62d066db14f7fc1c1cd57dc925d3e1efa9f9450221a7471849"
+hash = "ad9105f1c3705523e9c431dba52aac0755c686748c2490b64ed34382d1cc9162"
 metafile = true
 
 [[files]]
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "d7d301cdad4ea7fba80d8a6731324e76915ffc823290f2bf430847b75b6ac507"
+hash = "45f5a397d0250599f736f1e4ac1829b1ce3ba48ccce83adeae5cd387125763cc"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/gml.pw.toml"
-hash = "9ca3fb996304cb21567cda0c5fa43650511220a086cf2b6d2c00cd5e5472b73e"
+hash = "a3d03baff518ee8765d215491738a361e20b851b718985bd22a74f3c42cf09e5"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0286d8a0a9795d047e8c3e89c62afe3e7e270066de5e45c390d629098956dc0b"
+hash = "1745efd4a8be442c61f91c3a844ad864cc984079de51c2bb5079c27cc94d846f"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/physicsmod.pw.toml"
-hash = "957f8ef0b484a75067634e4e36e6efcbf5bc788f565885e3d45afc6ea0daa9fa"
+hash = "6c917ac9d69b27975387dc05b01281236379dfab9dc96260e989469333844c66"
 metafile = true
 
 [[files]]
@@ -225,12 +225,12 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "d2dc0c9ebb5509656f978958c5808c8f0ab127ad751c547354cf5cccee7c9013"
+hash = "b7d798b9bf037e171a2d5b58bb6eac5f298590541371479015702ec6a55c8caf"
 metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "63566a8639f5a340250502d75f307ec0998302a78cc3b3f81b494c7ebd7a70cd"
+hash = "8f93ed7ea12a90d207fe3479c8fe7c0dc20637d392464baf5e9ea2904f92b13f"
 metafile = true
 
 [[files]]

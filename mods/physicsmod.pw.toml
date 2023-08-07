@@ -1,13 +1,14 @@
 name = "PhysicsMod"
-filename = "physicsmod-1.20.1.jar"
+filename = "file"
 side = "client"
 pin = true
 
 [download]
-url = "https://www.patreon.com/file?h=86127166&i=14977129"
+url = "https://www.patreon.com/file?h=87115909&i=15265858"
 hash-format = "sha256"
 hash = "94841a227df43f87607aa2b95ebb10b1884931bdec33b93c325460cd4716e272"
 
 [option]
 optional = true
-description = "Enable, if you want fancy physics."
+default = true
+description = "Enable, if you want to have fancy physics."
