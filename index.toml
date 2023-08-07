@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "b7d798b9bf037e171a2d5b58bb6eac5f298590541371479015702ec6a55c8caf"
+hash = "b65d9cc9ea6f5e6f4258efd76a9736908265077d62026d46963168e57248b53a"
 metafile = true
 
 [[files]]
