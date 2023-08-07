@@ -1,14 +1,14 @@
 name = "Rubidium"
-filename = "rubidium-mc1.20.1-0.7.0.jar"
+filename = "rubidium-0.6.5.jar"
 side = "client"
 pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/4ZqxOvjD/versions/17IcFh9q/rubidium-mc1.20.1-0.7.0.jar"
+url = "https://cdn.modrinth.com/data/4ZqxOvjD/versions/iLEHOlRR/rubidium-0.6.5.jar"
 hash-format = "sha1"
-hash = "fd74401a1c9d911e7df0e018feabdc77c849545c"
+hash = "d2da2d5ba83056c1e68a94912a5da3ca992291c4"
 
 [update]
 [update.modrinth]
 mod-id = "4ZqxOvjD"
-version = "17IcFh9q"
+version = "iLEHOlRR"
