@@ -124,6 +124,11 @@ hash = "4b18fa9b1648a3745fc6854552606d44ea4f2d528ed376ee9fbaa952bb9b5125"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "790f2134c51b7aaa607550466155538d85fbb4999123b7c31bedf8d54699474e"
+metafile = true
+
+[[files]]
 file = "mods/krypton-reforged.pw.toml"
 hash = "9c1050c94b27f2c45faf308362cbfa273f120cd5aaeb742d94eea75179495c75"
 metafile = true
