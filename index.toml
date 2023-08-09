@@ -45,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/cb-compressed-blocks.pw.toml"
-hash = "f2f6dbf398f7c59282ef197629f02bde93958c963a06b25c54eb546f1f79f66c"
+hash = "2340bb6992487e420c3dc9548dac4c6d62b0f6d25c5ca7fcc44a48f9e9a173f9"
 metafile = true
 
 [[files]]

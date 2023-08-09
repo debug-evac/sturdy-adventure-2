@@ -3,11 +3,11 @@ filename = "Compressed Blocks-forge-1.20-1.3.6.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/IQRVlbit/versions/FwEPmQsf/Compressed%20Blocks-forge-1.20-1.3.6.jar"
 hash-format = "sha1"
 hash = "c8d77b27ea1a6ec624e7c22ba61855944d2afd6f"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4653994
-project-id = 361354
+[update.modrinth]
+mod-id = "IQRVlbit"
+version = "FwEPmQsf"
