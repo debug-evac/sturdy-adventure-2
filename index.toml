@@ -6,7 +6,7 @@ hash = "e11407a7be15652677bda3ae555a4d140f779832495f5343f7d206e1d3cd1e56"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f21f5ae7fd6a7754a20b890130d28b2655e8423e6618fe473e013b76007baead"
+hash = "b3919781bc1a1a2c066475625d234e4dfe4a9f29ea8dab2db1c37ebdec14d8dd"
 
 [[files]]
 file = "config/realcamera.json"
@@ -41,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/canary.pw.toml"
 hash = "86cb93925d163bf219df6c3c66f2f2c1304c8ba32b8c1687948c9c65a0c5e491"
+metafile = true
+
+[[files]]
+file = "mods/cb-compressed-blocks.pw.toml"
+hash = "f2f6dbf398f7c59282ef197629f02bde93958c963a06b25c54eb546f1f79f66c"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "Placeholder Modpack"
 author = "Stevenbf"
-version = "1.0.5"
+version = "1.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "762f85beb2af40001918d0dc230dbe406e9465289daf1f1033c5d4328c3d385a"
+hash = "693251484ef3dd0a3c09af4aad7de206ab6e7ad6e9ff67b07fb4803735507764"
 
 [versions]
 forge = "47.1.0"
