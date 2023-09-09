@@ -6,7 +6,7 @@ hash = "e11407a7be15652677bda3ae555a4d140f779832495f5343f7d206e1d3cd1e56"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b3919781bc1a1a2c066475625d234e4dfe4a9f29ea8dab2db1c37ebdec14d8dd"
+hash = "521db14e426a89587f5d0b33c20b3b7c5c2696e170611528f0ea181442471951"
 
 [[files]]
 file = "config/realcamera.json"
@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "ad9105f1c3705523e9c431dba52aac0755c686748c2490b64ed34382d1cc9162"
+hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "f106efa4f0255827f932d58eca40ab73acfa8e6c55195dd720ec75b95b664ca6"
+hash = "42837a80469f8bd1771d1cf5189129bc32672d21ccc61aca090ec82c241f3724"
 metafile = true
 
 [[files]]
@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
-hash = "040808e73b82573e37b55ec0d23ce73d4bb01605af3f48368fafc755200ec154"
+hash = "23f60d031671337d14d68011dd30ba921abe7f84c3eb8e66c60df0b853c0dd40"
 metafile = true
 
 [[files]]
@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4b18fa9b1648a3745fc6854552606d44ea4f2d528ed376ee9fbaa952bb9b5125"
+hash = "bdb4b62f139151049e9b26bea10b9cf1401a7638bea581e80ac5658e0eff5498"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/labels.pw.toml"
-hash = "59b3576e9b977ddf14bc6610f6c62afdf69710e87cf604efb1357d552a139028"
+hash = "b276e57266c1bd0c1d303952a99adcf272b3695d5c218701861886113a300a27"
 metafile = true
 
 [[files]]
@@ -165,17 +165,17 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "b7fc29bd04fc41db9a03b07a65a47f75665a1d8f710672d8a2739bd64ccf35eb"
+hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1745efd4a8be442c61f91c3a844ad864cc984079de51c2bb5079c27cc94d846f"
+hash = "d1e5b22b68193c27ba9098a92876737ba30c4cb1789f5c09da57e690f6bdf812"
 metafile = true
 
 [[files]]
 file = "mods/more-tiny-gates.pw.toml"
-hash = "f26d180d443c79c902c3b47ecfec51866bbcc007f5012630431c548bcadc44c7"
+hash = "e80f14579a0fd5a1a8bc60d7a50cf7d2a38fb83cd9ac4103c1a0f9ec083608a7"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/official-divinerpg.pw.toml"
-hash = "4240ce7a78a9cca66e0042fda047daa1045499a1b986644009690044817a582d"
+hash = "15dc1570ceecef49051477840da84e7def7b83929a613352e8ae785052f5de29"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "b174f739de2c9eb21d792240dfc24fc6b1a9f3a06c5a194f76e29d4b6b827299"
+hash = "fa7623f1be1a6f3d9f9de748d0c291de90e7061989eca4342fe417f2235b6fc8"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures.pw.toml"
-hash = "1127ffd3b9b7ca105e44f654785a164ade96611ce464350beca7eb46bef0ad46"
+hash = "c871331845224a033908f56f416f25beebd22a3a2152dc3f185e99bcca0ca8ae"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "714ff73d5470b417ddfa992dabdcce020c223844cbd03f376035463206d61358"
+hash = "460febc4e03094f8348e926f8ab91bf63cab940a81aa9c5cce390b971a758069"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "f437a961545373135f687213455bcba5b73b9e42696487fe14e7f30ea45d043e"
+hash = "84ca44cdbb74fed4d38d96a2b0ea23b2a364452483d7acf4c22472947e46e3e1"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "8660acda41cf23338ecd0b1c11f36a499b0fc4e98e42148c0fb4f038b8895bd9"
+hash = "f064ae124b259a7c58756efec9149bdcfddfc660440c576b0a70d3a70c5b943b"
 metafile = true
 
 [[files]]
