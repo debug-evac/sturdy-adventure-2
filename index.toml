@@ -84,6 +84,11 @@ hash = "6c8b183f8b826b006fc24801e77dadc398d5313ebcab09f49f06cb9dd94ea488"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "31b37d7d92a3c9703294e2243e04b003e9f6359ade2a68810cd8c9bbdad10d39"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "42837a80469f8bd1771d1cf5189129bc32672d21ccc61aca090ec82c241f3724"
 metafile = true
