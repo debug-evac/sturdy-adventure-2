@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton-reforged.pw.toml"
-hash = "9c1050c94b27f2c45faf308362cbfa273f120cd5aaeb742d94eea75179495c75"
+hash = "da84c04cf9bcf9e87d2e03681b04ce8a41d1ffaa6464a9fedcbb6e2296328380"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "769181d98218ea7712c2514614baebf8b60abadf5c6e024babf0c33308b14342"
+hash = "7f294e5c3aeba6102c9f0356e983679f2730139f8fa8986cd394f76db3fd93d0"
 metafile = true
 
 [[files]]
