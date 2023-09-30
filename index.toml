@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton-reforged.pw.toml"
-hash = "da84c04cf9bcf9e87d2e03681b04ce8a41d1ffaa6464a9fedcbb6e2296328380"
+hash = "9c1050c94b27f2c45faf308362cbfa273f120cd5aaeb742d94eea75179495c75"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "5ce209ca48bf641dd63440eee2df77084d8bc2be5c8fd2c717a5d0ec8bf0cb09"
+hash = "bd65d3beb4bc90d0114809cef1cde2d63d4afa70999055055038d5549fbbe1d1"
 metafile = true
 
 [[files]]

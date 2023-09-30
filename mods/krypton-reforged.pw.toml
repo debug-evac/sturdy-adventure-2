@@ -1,6 +1,6 @@
 name = "Krypton Reforged"
 filename = "KryptonReforged-0.2.3.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
