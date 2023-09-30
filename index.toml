@@ -170,12 +170,12 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "2247548d3b74f49ffb80a11f10d01c994d05a9dfe520afb3612815e770210d8c"
+hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7f294e5c3aeba6102c9f0356e983679f2730139f8fa8986cd394f76db3fd93d0"
+hash = "769181d98218ea7712c2514614baebf8b60abadf5c6e024babf0c33308b14342"
 metafile = true
 
 [[files]]
