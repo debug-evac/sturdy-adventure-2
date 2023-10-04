@@ -6,7 +6,7 @@ hash = "e11407a7be15652677bda3ae555a4d140f779832495f5343f7d206e1d3cd1e56"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f59bbf26c4f62018fdc497e9bf0d60b45444fc6b5bae2ef106a5de8f897f2c81"
+hash = "2c96572bd031ec7d578b43af7d3c9a41997759f359fe87d63b2325d8afb4f37c"
 
 [[files]]
 file = "config/realcamera.json"
@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "02cbfc2ef415376644cace02a08a6c5146b22fd33c2436691ac7917fff5f2715"
+hash = "e4e478c1726f5136cd5eacc89dc6b583f928184b7b99f133837fed16ea0b7173"
 metafile = true
 
 [[files]]
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "bcaf1676b018d6fc5663357d96b878a7a6fef2d1cba51489db90328064995a38"
+hash = "78dec13b8961292a1c244082194cada3ebcddb22a24ae549dee2da4cd02595e2"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "8386c52e66e5ca37b40bcca048e667e2757bd7385a412f4c589814da06452271"
+hash = "92d097fedbe3f14c9be312e1e2f1915c76c045ce039432f47f1a8ae01a19eb1d"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "5c42af250213d2b500e39a570292d940d11d82e12299f4195e0890fa88d54727"
+hash = "c39cfd8c5d3e7b726ea4c5b85389d98a56b4a2a6d9caf20d191a408a91233580"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "91b7d0248a163bf19d64494c7ce927d294f82da6bd6bd292480a6bc6b076cf6b"
+hash = "aab4ca48117480a0432bf14df038c409e61248fce9201bab32c8cde8fd57215f"
 metafile = true
 
 [[files]]
