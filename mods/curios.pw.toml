@@ -1,13 +1,13 @@
-name = "Curios API (Forge)"
-filename = "curios-forge-5.3.5+1.20.1.jar"
+name = "Curios API (Forge/NeoForge)"
+filename = "curios-forge-5.11.0+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "74cee063a5b30e036423f1ff412ee147774096cf"
+hash = "f81eead8c73b88463a3beb335be008fc388c82fa"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4780205
+file-id = 5843594
 project-id = 309927

@@ -1,13 +1,13 @@
-name = "Magnesium/Rubidium Extras"
-filename = "rubidium_extras-1.20.1_v1.4.3.jar"
+name = "Sodium/Embeddium Extras"
+filename = "sodiumextras-forge-1.0.6-1.20.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "2762712e8730ed1d377219b5c7f4a3095e580777"
+hash = "a21c66adddeda922615a885efc68462319d5a71b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4632207
+file-id = 5807590
 project-id = 558905
