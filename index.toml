@@ -234,6 +234,11 @@ hash = "1947cc239ea0752b836011ef95182e588e45b38ab793c9c24c6f468f85f54052"
 metafile = true
 
 [[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "07b39be29b40ce14304e24c0674342228d697ffcc393a9d7215acb94746b222f"
+metafile = true
+
+[[files]]
 file = "mods/security-craft.pw.toml"
 hash = "ccf8ef565e4e814c30d690b14dfdd5ba9b5429a7abc28dad196f711799f3f4cc"
 metafile = true
