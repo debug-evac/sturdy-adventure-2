@@ -6,7 +6,7 @@ hash = "e11407a7be15652677bda3ae555a4d140f779832495f5343f7d206e1d3cd1e56"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2c96572bd031ec7d578b43af7d3c9a41997759f359fe87d63b2325d8afb4f37c"
+hash = "9fd5bc2737e84341c18c4954f52a715de021eccfbad81de7294a2978c4931a48"
 
 [[files]]
 file = "config/realcamera.json"
@@ -154,11 +154,6 @@ hash = "f98a1edc4106e9f87c94abfbe7a2ed129ae19dec0041f04d0850cd4bf31db225"
 metafile = true
 
 [[files]]
-file = "mods/magnesium-extras.pw.toml"
-hash = "edb0ecf55e325b5562b0142a06c6dfdae06c2171334e4339d00928ae0363297d"
-metafile = true
-
-[[files]]
 file = "mods/material-elements-panels-plates-slabs.pw.toml"
 hash = "eb01b338f1044477ff8c9417173501fc04f48b84e54f4d6d885c5449ab4b43b4"
 metafile = true
@@ -239,11 +234,6 @@ hash = "1947cc239ea0752b836011ef95182e588e45b38ab793c9c24c6f468f85f54052"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "efd6357bf92cf4d16b085c7802cbb4b6fd923210ff4796a79886dfe484f22a9d"
-metafile = true
-
-[[files]]
 file = "mods/security-craft.pw.toml"
 hash = "ccf8ef565e4e814c30d690b14dfdd5ba9b5429a7abc28dad196f711799f3f4cc"
 metafile = true
@@ -255,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/shield-mechanics.pw.toml"
-hash = "0e7eb94667f734419fcb400f1cead971f62b8ac13e52f1c3df512f8487434404"
+hash = "8678c481a6d5a4a8b03ccb587a272d18d906ff8ca0e73860fd24bb127e51cc4f"
 metafile = true
 
 [[files]]
@@ -291,4 +281,9 @@ metafile = true
 [[files]]
 file = "mods/tool-belt.pw.toml"
 hash = "95d60fd0a890b6b1087de0bc89079e1dd1276b61a9b1241857f3ea414a3592d2"
+metafile = true
+
+[[files]]
+file = "mods/xenon.pw.toml"
+hash = "b91513c490e4a51622c7380aa84a08bc2cf8e45d714711910b653515db03cbae"
 metafile = true

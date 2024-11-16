@@ -1,13 +1,14 @@
 name = "Tactical Shield Overhaul[Forge/Neo/Fabric]"
-filename = "shieldmechanics-1.20.1-4.4.jar"
+filename = "shieldmechanics-1.20.1-4.3.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
-hash = "e1a4f12e0108d9508be6273f0e0f09f84eef7fc9"
+hash = "9c5f4e1c95e4b79a6ebad747121d03c4c84bb53f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5734275
+file-id = 4603687
 project-id = 476645
