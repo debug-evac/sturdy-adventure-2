@@ -1,13 +1,13 @@
 name = "CB: Compressed Blocks"
-filename = "Compressed Blocks-forge-1.20.6-1.6.1-1.20.6.jar"
+filename = "Compressed Blocks-forge-1.20.2-1.6.1-1.20.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IQRVlbit/versions/mcHLvAkH/Compressed%20Blocks-forge-1.20.6-1.6.1-1.20.6.jar"
+url = "https://cdn.modrinth.com/data/IQRVlbit/versions/duX2dfmK/Compressed%20Blocks-forge-1.20.2-1.6.1-1.20.2.jar"
 hash-format = "sha512"
-hash = "b2adb55787b1c97bc0478366cdbee3302de07eb79fcd0950bb9c2c82c4f9a8d94666c173d65693401a6682e418f4e9e04712c4a8a728f93968e8cc9e4f5ef8e5"
+hash = "11f65de1baafbb235290b48fbf696294a1bc9100d4be121d476c7827280ac0bb6eb2336c9cc4fe51711e3b4475f871c4997eab9170da0169beda5992eca3412a"
 
 [update]
 [update.modrinth]
 mod-id = "IQRVlbit"
-version = "mcHLvAkH"
+version = "duX2dfmK"

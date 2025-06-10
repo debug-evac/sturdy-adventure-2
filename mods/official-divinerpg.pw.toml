@@ -1,13 +1,13 @@
 name = "DivineRPG (Official)"
-filename = "DivineRPG-1.10.7.3.jar"
+filename = "divinerpg-1.10.7.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a06ff7424055ef31d0a898e47afe4dfc9e90a23a"
+hash = "5c67025048dc95b979fd02430ded615b534175e6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5049334
+file-id = 5715606
 project-id = 363543
