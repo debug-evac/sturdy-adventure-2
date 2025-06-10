@@ -259,6 +259,11 @@ hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
+file = "mods/flansmod.pw.toml"
+hash = "b11d5d9dac96572965e6cd7f9f55ac0248c737a5d9e7be0a5ec8fffabe7f913c"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "b1f484c61097b4dded6357bd20a5af4de713e3b94eb92d35ba08232cf684bf55"
 metafile = true
@@ -461,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/steel-armor-blocks.pw.toml"
 hash = "c1ee4e3e9ea07f252f13053be17aa38259cebd6de451018088874bf38a40b2b0"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
 metafile = true
 
 [[files]]
