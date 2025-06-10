@@ -6,7 +6,7 @@ hash = "e11407a7be15652677bda3ae555a4d140f779832495f5343f7d206e1d3cd1e56"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "e7539cbceba0fa3664d308a5072e118a28802e800a91449b70fe7f3800184506"
+hash = "43ba657866bc1010c9d04a6bb19f0c39fad64e77bea89019741967052b77db28"
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
