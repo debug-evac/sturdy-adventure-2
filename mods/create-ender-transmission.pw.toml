@@ -1,13 +1,13 @@
 name = "Create: Ender Transmission"
-filename = "createendertransmission-2.1.0-1.20.1.jar"
+filename = "createendertransmission-2.0.7-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wtW8g4TG/versions/MTDZj1kA/createendertransmission-2.1.0-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/wtW8g4TG/versions/BLfWg0mr/createendertransmission-2.0.7-1.20.1.jar"
 hash-format = "sha512"
-hash = "cc3432b494fc5a107385bd0c010988059128e1d23c085169e5b4446120bfb6963eea9cd79de55403ec7cff678a8af02e5d81ba492d1c738bdf2f91f90109390b"
+hash = "5985d80f54d4243a499c399f092c78bd1e914b0c35c2831446835b7a3267e4f85dbeae49259679ba70e54e89599f5627f68b4614b7cc2bd101c9dffd9bdd8858"
 
 [update]
 [update.modrinth]
 mod-id = "wtW8g4TG"
-version = "MTDZj1kA"
+version = "BLfWg0mr"
