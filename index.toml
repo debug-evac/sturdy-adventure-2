@@ -134,11 +134,6 @@ hash = "7eb750e73f8d699333f19537b80206d359ad84a12f4f1e2b3beb334df586bc37"
 metafile = true
 
 [[files]]
-file = "mods/create-fishing-bobber-detector.pw.toml"
-hash = "c9ff36fe7735b709bbf13003f05ae3637b62fc00fd01689da12f65e486fae30f"
-metafile = true
-
-[[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "4cfb0ff137a901360b23eadff2df3f41c125099f81ba3c3ba20b5ea29273cf62"
 metafile = true
