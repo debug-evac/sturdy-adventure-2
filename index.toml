@@ -464,11 +464,6 @@ hash = "c1ee4e3e9ea07f252f13053be17aa38259cebd6de451018088874bf38a40b2b0"
 metafile = true
 
 [[files]]
-file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "3d541d0d123c8b4e9335df89ac304c657b8025939ed12b62e2dd9a6bcecb0891"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "3cb2f4421641b4de231d5de636b4cb75a278d2be9bca06faac61552471ccd448"
 metafile = true
