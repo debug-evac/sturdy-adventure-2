@@ -6,7 +6,7 @@ hash = "e11407a7be15652677bda3ae555a4d140f779832495f5343f7d206e1d3cd1e56"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "582f53ae96eb93f80afd12b4e0269eff551933fd618e98c78fb2e64d4df585ee"
+hash = "c63a01be98c723940631541431028d7004ce77477570f8568ab943f152541432"
 
 [[files]]
 file = "mods/antixray-forge.pw.toml"
