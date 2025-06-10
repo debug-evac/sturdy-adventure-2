@@ -1,0 +1,13 @@
+name = "Create: The Air War"
+filename = "create_the_air_wars-1.67-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GMrNnOis/versions/3hxvt51n/create_the_air_wars-1.67-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "e04e580a7d190ea4d3153a69dd457d926219e375527946202cf288897686d57ae0a5e3bb6d21c209b033277eec51cf044b62910db48071fc59391e6da83ae7ab"
+
+[update]
+[update.modrinth]
+mod-id = "GMrNnOis"
+version = "3hxvt51n"

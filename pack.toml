@@ -1,16 +1,16 @@
-name = "Placeholder Modpack"
+name = "Creativity Modpack"
 author = "Stevenbf"
-version = "1.0.10"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c2ef25a3527770a2735f9d88fe078416df7d2ee9202fa1a88cee31cd1c61ed4b"
+hash = "393cc7fa4ed83028224bd50c97499d21f1afbf800b027c498deced863e975003"
 
 [versions]
-forge = "47.2.0"
-minecraft = "1.20.1"
+forge = "50.2.0"
+minecraft = "1.20.6"
 
 [options]
-acceptable-game-versions = ["1.20"]
+acceptable-game-versions = ["1.20", "1.20.1", "1.20.2", "1.20.3", "1.20.4", "1.20.5"]
