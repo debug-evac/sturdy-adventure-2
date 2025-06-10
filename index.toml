@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "4332473036cc8c221e781da27ae7bd4b718360400791ac3cf448e1e89c955506"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
