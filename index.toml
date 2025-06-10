@@ -244,11 +244,6 @@ hash = "00a06884a4f8854fad85f2456c1d6c53ee09cc5e545a35e41cad24e82907a1ab"
 metafile = true
 
 [[files]]
-file = "mods/eating-animation-forge.pw.toml"
-hash = "d9c46e6e1dfc2fe1686303273680d43a5934fde03c368827c97427010a00ac3a"
-metafile = true
-
-[[files]]
 file = "mods/eureka.pw.toml"
 hash = "d87a2ef4b990dc9d189ca15e07394e82266773dee1e3c4e5b4d8b662d56ed03b"
 metafile = true
@@ -266,11 +261,6 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "b1f484c61097b4dded6357bd20a5af4de713e3b94eb92d35ba08232cf684bf55"
-metafile = true
-
-[[files]]
-file = "mods/gml.pw.toml"
-hash = "9e92eb43b53a04f77946276e43272335f6e93666c36a1c233e21896f1b3f3c0c"
 metafile = true
 
 [[files]]
