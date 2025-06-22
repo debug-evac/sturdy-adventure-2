@@ -349,6 +349,11 @@ hash = "95a388afd649dadaa1420d5b258aeb95b7bacc64ccab31dd541ddc29e26d21c6"
 metafile = true
 
 [[files]]
+file = "mods/more-red.pw.toml"
+hash = "bb8dd1fa0f1ee88f8f947a2ab2101c414cb2808dac81c21ac66c8ad32cdfec29"
+metafile = true
+
+[[files]]
 file = "mods/more-tiny-gates.pw.toml"
 hash = "e80f14579a0fd5a1a8bc60d7a50cf7d2a38fb83cd9ac4103c1a0f9ec083608a7"
 metafile = true
