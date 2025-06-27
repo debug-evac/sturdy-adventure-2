@@ -1,12 +1,12 @@
 name = "Creativity Modpack"
 author = "Stevenbf"
-version = "1.1.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c2823bdcbce3eae0f68d64f7dad9ccff626f286e7681e4ebedc125e9fb6bed99"
+hash = "cb03b8ebaaa82c2f2b86c13fde99829f401f8a6f2c31247d84fe821cfac3d8c6"
 
 [versions]
 forge = "47.4.0"

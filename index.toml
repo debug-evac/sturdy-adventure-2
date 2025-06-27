@@ -6,7 +6,7 @@ hash = "e11407a7be15652677bda3ae555a4d140f779832495f5343f7d206e1d3cd1e56"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "3b726d55a1daa976112a3f33c3f848627057a73b8e2cc2a5318d3b30a79e0877"
+hash = "c7bda808916107510efb34a28e3209380b7f979afeebd38b044ce02cd0def25d"
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
@@ -286,11 +286,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "5f7c3cf35124bf96e880cc8562fc44ac15990a89b07db299aed9a88ce3752cb1"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
 metafile = true
 
 [[files]]
