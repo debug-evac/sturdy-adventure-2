@@ -6,7 +6,7 @@ hash = "e11407a7be15652677bda3ae555a4d140f779832495f5343f7d206e1d3cd1e56"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "c7bda808916107510efb34a28e3209380b7f979afeebd38b044ce02cd0def25d"
+hash = "2ce6404b42034e8c1f09bcab5b0332a835ffccbefc1004ed1ba1e77b041bd1e9"
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
@@ -491,6 +491,16 @@ metafile = true
 [[files]]
 file = "mods/vs-tournament.pw.toml"
 hash = "09bc666249e4d1d029c01d8fc298732b25ddd98edb49d5fc19dd0ceb5fd70d9e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "c2c3e83475d18055bc23283143d6abeb0af2e881bc1ce7c6c119055b73a9831a"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "fb4358298d2a0733d2786e1c532d96babb9dd3a376c465fb7a51f9452e902a4c"
 metafile = true
 
 [[files]]
