@@ -284,6 +284,11 @@ hash = "5f7c3cf35124bf96e880cc8562fc44ac15990a89b07db299aed9a88ce3752cb1"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "664a573384edf644e9b788c7c29fe32593917ac8283bb794cc46b471a0a6504a"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
@@ -491,16 +496,6 @@ metafile = true
 [[files]]
 file = "mods/vs-tournament.pw.toml"
 hash = "09bc666249e4d1d029c01d8fc298732b25ddd98edb49d5fc19dd0ceb5fd70d9e"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "c2c3e83475d18055bc23283143d6abeb0af2e881bc1ce7c6c119055b73a9831a"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "fb4358298d2a0733d2786e1c532d96babb9dd3a376c465fb7a51f9452e902a4c"
 metafile = true
 
 [[files]]
