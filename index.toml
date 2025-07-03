@@ -6,7 +6,7 @@ hash = "e11407a7be15652677bda3ae555a4d140f779832495f5343f7d206e1d3cd1e56"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "47b6f0eb06b6613f9f227b2b8937923726c8c8a7577fa2689ad0f8db91c3843b"
+hash = "f3f98e0cfd367e7e5f5f0839a8783c1f41f998245d7ff4dd3e1d29286f59115f"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
