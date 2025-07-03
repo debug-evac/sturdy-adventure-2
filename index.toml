@@ -6,12 +6,7 @@ hash = "e11407a7be15652677bda3ae555a4d140f779832495f5343f7d206e1d3cd1e56"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2ce6404b42034e8c1f09bcab5b0332a835ffccbefc1004ed1ba1e77b041bd1e9"
-
-[[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "6486abd02846d51e2da7c93ddc1bb66ea57d5917bd20e9df33d6063ab74097aa"
-metafile = true
+hash = "47b6f0eb06b6613f9f227b2b8937923726c8c8a7577fa2689ad0f8db91c3843b"
 
 [[files]]
 file = "mods/antixray-forge.pw.toml"
@@ -71,11 +66,6 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 metafile = true
 
 [[files]]
@@ -256,11 +246,6 @@ metafile = true
 [[files]]
 file = "mods/flansmod.pw.toml"
 hash = "b11d5d9dac96572965e6cd7f9f55ac0248c737a5d9e7be0a5ec8fffabe7f913c"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "52cbf31840eef5ec3a4dd81ab04ef33a518e4f0ed89fad11c965da0374a7a6d6"
 metafile = true
 
 [[files]]
@@ -456,11 +441,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "b969799c17defc1e7c76e4605557c9d32802a0004a5e45b7044e85d3d9c43345"
-metafile = true
-
-[[files]]
-file = "mods/surveyor.pw.toml"
-hash = "f05a1d7a46d6844e139a23b46be8fa214f0029a1a9c202689e98e9f7fb67ac05"
 metafile = true
 
 [[files]]
