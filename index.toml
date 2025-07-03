@@ -119,11 +119,6 @@ hash = "955f26b4395dfd23edbad828e9deaa60957b7cdfe604d47c5fe4e46df2800fe5"
 metafile = true
 
 [[files]]
-file = "mods/create-ender-transmission.pw.toml"
-hash = "7a029e4f304faca136f8b8dc230f84989ddc9313f5a934636095b63abd04fb30"
-metafile = true
-
-[[files]]
 file = "mods/create-eureka.pw.toml"
 hash = "7eb750e73f8d699333f19537b80206d359ad84a12f4f1e2b3beb334df586bc37"
 metafile = true
