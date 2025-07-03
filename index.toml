@@ -9,6 +9,11 @@ file = "config/bcc-common.toml"
 hash = "47b6f0eb06b6613f9f227b2b8937923726c8c8a7577fa2689ad0f8db91c3843b"
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "0182123a19bb7ee99cb8db17b8d10262a498718a117a47c105fd7b84110a1fcb"
+metafile = true
+
+[[files]]
 file = "mods/antixray-forge.pw.toml"
 hash = "833efcb94c8db7aaa145294eba416104471b5912f00b871553452aecee908e22"
 metafile = true
@@ -56,6 +61,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "c1dc583e440716e24fd8478792f730538a576e8338fcbe31f5ac9ef835fc743d"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "3d431fb730389a29bea4e933b6c9052760c0b780a4a1145f63ed046717f10417"
 metafile = true
 
 [[files]]
