@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f3f98e0cfd367e7e5f5f0839a8783c1f41f998245d7ff4dd3e1d29286f59115f"
+hash = "75861390f2117f7cd3bdb094d049c17756f757afe972a8a9608251190cd0b556"
 
 [[files]]
 file = "mods/antixray-forge.pw.toml"
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "7490aa7761100edfb3c60cfe2aaac28af1c8edb1beb6aadbdfdb88cc47d02510"
+hash = "5b2474ff2b8d827aa0b41c9ea8ee41e8cdeefcb25e90bc25e7cfed8185f8a32c"
 metafile = true
 
 [[files]]
