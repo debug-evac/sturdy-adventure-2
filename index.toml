@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "e11407a7be15652677bda3ae555a4d140f779832495f5343f7d206e1d3cd1e56"
-
-[[files]]
 file = "config/bcc-common.toml"
 hash = "f3f98e0cfd367e7e5f5f0839a8783c1f41f998245d7ff4dd3e1d29286f59115f"
 
