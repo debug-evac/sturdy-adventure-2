@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "75861390f2117f7cd3bdb094d049c17756f757afe972a8a9608251190cd0b556"
+hash = "f7610ebf76a932f6ea53f376722ffe21d168548f4ee0f3928bf52bb7f63954b5"
 
 [[files]]
 file = "mods/antixray-forge.pw.toml"
