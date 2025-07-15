@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "c8645a72e784f5c1f24b83573e93085569f58caf6d7356b6f45b873b15f5c8a5"
+hash = "74d0a3cae316cfecd41a928d5ce684813648a26208748999c150914857faa8e0"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "71f03c33669516ce50b789b191989ce1a0566c51c48676cc8d49907e23217ac7"
+hash = "705856841852ca6823fb2b16c7e82c15ce251bf995ac6ac725ee5665d3b54dd1"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "457f82eb5d7b278e706d1c544ffb4186b6e8d45ff69f6af03d92e9c2758b8a94"
+hash = "f169acc0d62650abb6ebdca4716b858519a9274a821c2e5748ef9ee7052aa346"
 metafile = true
 
 [[files]]
@@ -266,17 +266,17 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "b1f484c61097b4dded6357bd20a5af4de713e3b94eb92d35ba08232cf684bf55"
+hash = "6aa382d3b561394143f4f3a434a4977029c9567d145164d6435703e8007aaa5c"
 metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "d63d6a68c8389cbc48ec3fe181d5b465d8fbd829923618951b00e60c97f78500"
+hash = "3aa4d2e503b7a4544868954aa8175335ee34714a8b44cc2a41cdbb833e271c31"
 metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "5b93a9e6124a2167f648f02e337d1a43b83e8734e3bc9f3a218e52b68d7b3207"
+hash = "a6f1034f2f82d3342aec38d6f80fdded8e022a747514ab388692c30afce4f8e9"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6d67f3ac8920ae6bc778bb51ce44a9f0ed0b5f81df3b9213f130542610122921"
+hash = "3c35c6a48fe371942dcfcddcad6c6a8c62970ed8ac744d00767e1edc6edf88c1"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "3a5ecde4673e80559170c6f0f0505a6cbdae7e0e751f19f5458f2d73c4198c73"
+hash = "30abe39f24fbc61136db2a1052334c487c2800624373e30ad5279982b729b1c8"
 metafile = true
 
 [[files]]
