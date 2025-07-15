@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "bf0a5cbfa985d4945bda1f5904f76c4fe834e8487c3acceb589050e56c3c5512"
+hash = "c1c85b95cd516d0c6e84b58632d4646866e8f13704d92d14214ec5d8b6999397"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "c1dc583e440716e24fd8478792f730538a576e8338fcbe31f5ac9ef835fc743d"
+hash = "33fbfba45630792a9223d4e20c9300bc9fef142c68781fc648c32b62313f3e16"
 metafile = true
 
 [[files]]
