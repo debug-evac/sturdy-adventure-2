@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b40915ea55371f6295ae5616d1d446fa94dd4eb81e030f531b15111b94c0e45d"
+hash = "1d8cfa620af62cdd6a81b2024cce9ba498dbba9a3c9168d831862930facb443f"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
@@ -472,16 +472,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
-metafile = true
-
-[[files]]
-file = "mods/tiny-gates.pw.toml"
-hash = "ceac2c3e6899066cf7193d7669d1803ba80f8ad103e9345b7a6acc4eb6ee574a"
-metafile = true
-
-[[files]]
-file = "mods/tiny-redstone.pw.toml"
-hash = "8e7fe08359c9055536da7f487cf086fa615aeaa06b5e843427d30018c7ac13ca"
 metafile = true
 
 [[files]]
