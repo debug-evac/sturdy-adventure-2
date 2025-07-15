@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "c1c85b95cd516d0c6e84b58632d4646866e8f13704d92d14214ec5d8b6999397"
+hash = "c8645a72e784f5c1f24b83573e93085569f58caf6d7356b6f45b873b15f5c8a5"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
