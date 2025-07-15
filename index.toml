@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f3f98e0cfd367e7e5f5f0839a8783c1f41f998245d7ff4dd3e1d29286f59115f"
+hash = "f7610ebf76a932f6ea53f376722ffe21d168548f4ee0f3928bf52bb7f63954b5"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
@@ -22,6 +22,11 @@ metafile = true
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "71f03c33669516ce50b789b191989ce1a0566c51c48676cc8d49907e23217ac7"
+metafile = true
+
+[[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "2fcb82423dd16ee2f8f6e427f90eec03d1ed5da8339dbca394fb8147ae6d1cf9"
 metafile = true
 
 [[files]]
@@ -82,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "f87f921963470a9a2297bf391a408cdabcaaeabed7333e11d7847ea99cd66725"
+metafile = true
+
+[[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "5b2474ff2b8d827aa0b41c9ea8ee41e8cdeefcb25e90bc25e7cfed8185f8a32c"
 metafile = true
 
 [[files]]
